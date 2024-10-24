@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://vutajofo.github.io/sitemap/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/oBS/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/pTJ/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/XAE/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/Pyr/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/NSe/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/CYK/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/eOY/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/sMC/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/Bro/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/nGB/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/sdV/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/kBf/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/vyM/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/Deb/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/Crb/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/CuP/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/jDe/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/Pom/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/mHt/sitemap_index.vutajofo
+Sitemap: https://vutajofo.github.io/Ynq/sitemap_index.vutajofo
